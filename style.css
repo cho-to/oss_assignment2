@@ -1,0 +1,32 @@
+#name{
+    background : lightpink;
+    padding : 8px;
+    margin : auto;
+    font-weight : bold;
+    font-style : italic;
+}
+
+#Affiliation{
+    background : lightpink;
+    padding : 8px;
+    font-weight : bold;
+}
+
+
+#contact{
+    font-weight : bold;
+    background : lightgrey;
+    padding : 8px;
+}
+
+#github{
+    font-weight : bold;
+    background : lightgray;
+    padding : 8px;
+}
+
+#interest{
+    font-weight : bold;
+    background : lightgreen;
+    padding : 8px;
+}
